@@ -13,5 +13,7 @@ bdsx 스크립트 깃헙
 + 채팅색 설정
   + UI를 이용한 설정 `/settingchat`
 
+미완성입니다
+
 -------
-[English readme.md](https://github.com/wwwcomcomcomcom/bdsx-script/blob/main/README.md)
+[English readme.md](https://github.com/wwwcomcomcomcom/bdsx-script/blob/master/README.md)
