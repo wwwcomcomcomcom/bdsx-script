@@ -16,4 +16,4 @@ bdsx script repository
 It's incomplete!!!!
 
 -------
-[한국어 설명](https://github.com/wwwcomcomcomcom/bdsx-script/blob/main/README_Korean.md)
+[한국어 설명](https://github.com/wwwcomcomcomcom/bdsx-script/blob/master/README_Korean.md)
