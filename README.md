@@ -13,5 +13,5 @@ bdsx script repository
 + Setting chat color
   + setting with ui `/settingchat`
 
------
+-------
 [한국어 설명](https://github.com/wwwcomcomcomcom/bdsx-script/blob/main/README_Korean.md)
