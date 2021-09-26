@@ -5,6 +5,14 @@ import { bedrockServer } from "bdsx/launcher";
 import { command } from "bdsx/command";
 import { Form } from "bdsx/bds/form";
 import { CommandPermissionLevel } from "../bdsx/bds/command";
+
+import fs = require("fs");
+let test = fs.readFileSync("../my-script/cursingList.json", "utf-8");
+let data = JSON.parse(test);
+
+console.log(data.test);
+
+
 let time : any = {};
 let formResult:any = [true,30,1500,0];
 let rank:any;
