@@ -1,0 +1,13 @@
+{
+    "player": { "user": "Example" },
+    "guilds": {
+        "Example": {
+            "master": "user",
+            "icon": "textures/ui/op",
+            "submaster": [],
+            "level": 1,
+            "settings": { "pvp": true, "join": "request", "maxPlayers": 10 },
+            "joinRequest": []
+        }
+    }
+}

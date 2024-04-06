@@ -1,5 +1,4 @@
-import "./chat";
-import "./command";
-import "./packetsTest";
+import "./freestyle-rank";
+import "./my-modules";
 
-console.log("My Sciprt Loaded made my wwwcomcomcomcom");
+console.log("bdsx-script is loaded");

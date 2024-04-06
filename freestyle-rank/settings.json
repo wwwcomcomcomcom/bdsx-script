@@ -1,0 +1,9 @@
+{
+    "rankChat": "§a[§r 칭호 §a]§r 이름 §a=>§r 채팅",
+    "normalChat": "이름 §a=>§r 채팅",
+    "guildChat": "§6§l〔§r길드§6§l〕§r 이름 §a=>§r 채팅",
+    "rankGuildChat": "§6§l〔§r길드§6§l〕§r §a[§r 칭호 §a]§r 이름 §a=>§r 채팅",
+    "chatToConsole": true,
+    "setting": [true, 50, 100, 0],
+    "guildSort": "members"
+}
