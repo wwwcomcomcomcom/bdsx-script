@@ -1,20 +1,14 @@
 # bdsx-script
+[This is a plugin for this minecraft server](https://github.com/bdsx/bdsx)
 
-개발 잼민이 시절이 남아있는
+나의 개발 잼민이 시절이 남아있는
 레거시 프로젝트
 
-bdsx script repository
+<s>저 시절 나는 어떻게 코드를 짰을까
+지금 열정적이고 잘하던 그때의 나는 없다.
+</s>
 
-## functions
 
--   Chatting restrictions
-    -   restrict fast chat
-    -   restrist long chat
-    -   setting with UI `/settingchat`
--   Title chatting
-    -   title chatting with tags `/tag player add _tagname-`
-    -   supports only one title
--   Setting chat color
-    -   setting with ui `/settingchat`
 
-It's incomplete!!!!
+
+[Best of my module is this](https://github.com/wwwcomcomcomcom/bdsx-script/blob/master/my-modules/particle.ts)
